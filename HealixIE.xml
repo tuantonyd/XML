@@ -8,12 +8,8 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="bbc.co.uk">
+  <site url="healixreportportal/Reports/Pages/Folder.aspx">
     <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="starwars.com">
-    <compat-mode>IE7Enterprise</compat-mode>
     <open-in>IE11</open-in>
   </site>
 </site-list>
